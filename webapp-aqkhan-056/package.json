@@ -1,0 +1,8 @@
+json
+{
+  "name": "webapp-AbdulQadeerKhan-056",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "echo 'no server needed'"
+  }
+}
