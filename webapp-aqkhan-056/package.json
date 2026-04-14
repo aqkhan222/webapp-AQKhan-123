@@ -1,8 +1,8 @@
-json
 {
   "name": "webapp-AbdulQadeerKhan-056",
   "version": "1.0.0",
+  "main": "server.js",
   "scripts": {
-    "start": "echo 'no server needed'"
+    "start": "node server.js"
   }
 }
